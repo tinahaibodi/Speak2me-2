@@ -1,0 +1,31 @@
+This repository contains documents describing the design and high-level overview of DiLog. 
+
+The documents and discussions in this repository are part of the DiLog group made at BigRedHacks 2017. 
+
+Overview
+
+DiLog is a new, portable, size-able and load-time-efficient translator available for iOS application users, made with xCode. 
+
+DiLog is currently designed with Sketch, Photoshop, and Adobe XD. 
+
+More Information
+
+Resource	Repository Location
+High Level Goals	design/HighLevelGoals.md
+Frequently Asked Questions	design/FAQ.md
+Language Specification	spec/README.md
+Design Process & Contributing
+
+The DiLog specification is being developed in the spec repository. For now, high-level design discussions should continue to be held in the design repository, via issues and pull requests, so that the specification work can remain focused.
+
+We've mapped out features we expect to ship:
+
+An initial Minimum Viable Product (MVP) release;
+And soon after in future versions.
+Join us:
+
+On Stack Overflow's #dilog tag
+
+By contributing!
+
+When contributing, please follow our Code of Ethics and Professional Conduct.
